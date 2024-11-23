@@ -1,3 +1,3 @@
 Projects: ion
 
-This is the beginning of learning playground.
+This is the beginning of learning playground process.
